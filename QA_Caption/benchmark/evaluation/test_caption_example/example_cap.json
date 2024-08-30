@@ -1,0 +1,65 @@
+{
+    "scene0231_01_84": {
+        "question": "Please describe the object",
+        "pred": [
+            "This bottle is a standard plastic container used for storing beverages. It has a cylindrical shape with a slightly tapered top. The color of the bottle is transparent, allowing you to see the contents inside. In terms of size, it's medium-sized compared to similar items. The bottle is in good condition, showing no obvious signs of damage or wear. It stands upright on a surface, like a table or countertop. Functionally, it serves its intended purpose as a container for drinks."
+        ],
+        "gt": [
+            "This is a white vase with a lush green plant inside. The vase is placed on a wooden stand. It has a cylindrical shape, with a narrow neck. The plant inside the vase is thriving with long, verdant leaves. The vase is made of ceramic and has a smooth surface. It's of a moderate size and stands vertically on the stand. This vase is designed for holding plants, with its narrow neck and wide base. The plant inside the vase is healthy and well-tended."
+        ]
+    },
+    "scene0231_01_10": {
+        "question": "Please describe the object",
+        "pred": [
+            "This chair is a modern office chair with a stylish design. It has a curved backrest and armrests, providing ergonomic support for the user. The chair is upholstered in a light beige or off-white fabric, giving it a clean and elegant look. In terms of size, it's medium-sized compared to similar items. The chair is well-maintained, showing no obvious signs of damage or wear. Functionally, it features wheels at the bottom, making it easy to move around."
+        ],
+        "gt": [
+            "This chair is a wooden chair with a diamond-patterned backrest. It is of a moderate size and stands upright. The chair is well-preserved, without any obvious damage or wear. It is designed for regular use, such as in dining or office settings, and is suitable for short to moderate periods of sitting. It is characterized by a wooden frame and a padded seat."
+        ]
+    },
+    "scene0231_01_143": {
+        "question": "Please describe the object",
+        "pred": [
+            "This book is a standard-sized hardcover, either a novel or a reference book. It has a rectangular shape with a slightly tilted spine, indicating that it has been opened and read multiple times. The color of the book is a light beige or off-white, which is common for this type of book. In terms of size, it is medium-sized compared to similar items. The book is in good condition, showing no obvious signs of wear or damage. It is standing upright on a surface, such as a bookshelf or table."
+        ],
+        "gt": [
+            "This paper is a standard-sized sheet, typically used for letters or documents. It's made of fibrous material and appears white, with a hint of yellow, indicating some aging or exposure to sunlight. The paper is in good condition, with minimal creases or tears. It's placed vertically on a surface, perhaps a table or desk. The design is simple, devoid of noticeable markings, stickers, or prints. Functionally, it's a plain sheet used for writing or reading."
+        ]
+    },
+    "scene0231_01_51": {
+        "question": "Please describe the object",
+        "pred": [
+            "This chair is a modern office chair with a stylish design. It has a curved backrest and armrests, providing ergonomic support for the user. The chair is upholstered in light-colored fabric, such as beige or off-white. In terms of size, it is medium-sized compared to similar items. The chair is well-maintained, showing no obvious signs of wear or damage. It is placed vertically on a carpeted floor next to a desk."
+        ],
+        "gt": [
+            "This is a sturdy, swivel office chair with a chrome base. Both the seat and the backrest are crafted from red material that has been padded. The chair is in good condition, showing no obvious signs of wear or damage. In terms of size, it falls within the medium range compared to similar items. When positioned upright, the chair slightly leans towards the desk. Functionally, it is designed for prolonged sitting, equipped with a footrest and armrests for added comfort. Design features include a grid pattern on the backrest and chrome trim on the base."
+        ]
+    },
+    "scene0246_00_region_1": {
+        "question": "Please describe the region",
+        "pred": [
+            "The corridor region serves as a transitional space, connecting the bedroom and bathroom. It features neutral tones, with light-colored walls and wooden floors creating a warm and inviting atmosphere. Soft furnishings like curtains and decorative pillows complement the minimalist style, while functional fixtures such as doors and windows provide privacy and ventilation. With ample space for movement, the corridor is well-designed for comfort and practicality. Natural light fills the room through strategically placed windows, adding a touch of natural elegance. Overall, the corridor exudes a sense of tranquility and simplicity, perfect for relaxation and personal hygiene."
+        ],
+        "gt": [
+            "The bathing region is a cozy and practical space within the bathroom, designed for showering or bathing. With waterproof doors and ceramic tile walls and floors, it ensures privacy and easy cleaning. Soft fittings like curtains and bath mats add a touch of comfort, while the bright, waterproof lighting makes it functional. The color scheme is typically light and neutral to create a serene atmosphere, and the style can vary from modern to traditional. Special features such as adjustable shower heads and built-in shelves cater to individual preferences for a relaxing bathing experience."
+        ]
+    },
+    "scene0246_00_region_0": {
+        "question": "Please describe the region",
+        "pred": [
+            "The living region is a multifunctional space designed for relaxation, entertainment, and dining. It features a spacious layout with ample room for furniture and decorative elements. Natural light floods in through large windows, complemented by artificial lighting fixtures. Soft furnishings like pillows and blankets create a cozy atmosphere, while the presence of plants adds a touch of nature. The neutral color palette and minimalist design style create a tranquil ambiance, perfect for unwinding after a long day."
+        ],
+        "gt": [
+            "The resting region is a spacious and tranquil area within the bedroom, designed for relaxation and personal activities. It features a large bed with plush pillows, complemented by a vanity table and stool. The high ceiling supports overhead and table lighting, while personalized decorative elements create a harmonious and modern ambiance. Smooth, even flooring and well-supported walls provide a stable foundation for the carefully arranged decorative features. The coordinated color scheme and theme reflect a sense of tranquility, with purposefully placed elements contributing to the region's serene and appealing atmosphere."
+        ]
+    },
+    "scene0246_00_region_2": {
+        "question": "Please describe the region",
+        "pred": [
+            "The toilet region is a compact, functional space designed for personal hygiene and grooming activities. It features tiled walls, floors, and ceilings, creating a clean and tidy atmosphere. Soft furnishings such as towels and bath mats are neatly arranged, complementing the minimalist style of the room. Natural light streams in through a window, illuminating the neutral-toned color scheme. With practical fixtures like sinks and mirrors, it's easy to see why this area is essential for personal hygiene."
+        ],
+        "gt": [
+            "The toilet region is a compact yet efficiently designed personal hygiene space, featuring a hidden door and artificial lighting. The waterproof-tiled walls and non-slip floor provide a functional and practical setting. Soft furnishings like towels and bath mats complement the neutral color scheme, creating a clean and comfortable atmosphere. With a focus on grooming tasks, the overhead and task lighting enhance the mirror and sink area. An added convenience is the specially designed towel rack for bath essentials."
+        ]
+    }
+}

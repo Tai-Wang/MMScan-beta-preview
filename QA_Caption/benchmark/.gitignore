@@ -1,0 +1,6 @@
+data/mmscan_anno/
+data/mmscan_scenes/
+data/mmscan_info/
+
+.vscode/
+**/__pycache__/
